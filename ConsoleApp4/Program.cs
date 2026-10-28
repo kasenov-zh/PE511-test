@@ -8,6 +8,10 @@ namespace ConsoleApp4
 {
   internal class Program
   {
+    static void foo()
+    {
+      Console.WriteLine("FOO...");
+    }
     static void Main(string[] args)
     {
       /*char c1 = 'H';
